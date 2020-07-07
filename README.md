@@ -1,8 +1,12 @@
-# ChatbotWatsonServices
+# Edudational Chatbot with WatsonServices
+The "Universidad Peruana de Ciencias Aplicadas" has a program called "Summer Camp" for certain specializations in Communications and Engineering, where an introduction is made to young people in the 3rd, 4th and 5th years of high school and, therefore, they are close to entering University. Within this context:
+• They want to receive feedback on the Summer Camp, so that they can improve the quality of the service.
 
-Chatbot integrado con Watson Assistant, Speech To Text, Tone Analyzer, Natural Language Understanding ,Language Translator y Cloudant.
+The proposed solution is to implement a Chatbot that can collect opinions or “reviews” of the Summer Camp so that this data is processed under a sentiment analysis for subsequent decision-making to improve the service.
 
-Crearemos un chatbot basado en la web, en la que se tiene la opción de tener entrada de voz y escrita. Además se realizará análisis de sentimientos utilizando Tone Analyzer y Natural Language Understanding, la respuesta de estos servicios será almacenado en una base de datos NoSQL Cloudant en tiempo real.
+This Chatbot is integrated with Watson Assistant, Speech To Text, Tone Analyzer, Natural Language Understanding, Language Translator and Cloudant.
+
+Then we will create a web-based chatbot, in which you have the option of having voice and written input. In addition, sentiment analysis will be performed using Tone Analyzer and Natural Language Understanding, the response of these services will be stored in a NoSQL Cloudant database in real time.
 
 ![Arquitectura](/doc/images/arquitectura.jpg)
 
