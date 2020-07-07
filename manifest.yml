@@ -1,0 +1,6 @@
+---
+    applications:
+     - name: SummerCamp
+       random-route: true
+       memory: 256M
+       command: node app.js
