@@ -81,4 +81,4 @@ Change all of the variables into the `env.` file.
 Run `npm install` then `npm start`. Navigate to http://localhost:3000/.
 ### 6. Use the web app
 The web app presents a customer service chatbot. Interact with the chatbot by pressing the buttons when prompted or use the `Type something` box or select the voice icon to talk with the chatbot.
-![demo](doc/images/demo.gif)
+![demo](doc/images/demo.png)
