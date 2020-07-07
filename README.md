@@ -40,3 +40,22 @@ Then we will create a web-based chatbot, in which you have the option of having 
 1. [Deploy the application](#5-deploy-the-application)
 1. [Use the web app](#6-use-the-web-app)
 
+### 1. Clone the repo
+
+Clone the `EducationalChatbot` locally. In a terminal, run:
+
+```bash
+git clone https://github.com/Mishelc/EducationalChatbot
+```
+
+### 2. Create Watson services and Cloudant 
+
+Provision the following service:
+<b>Watson Assistant</b>
+<p>
+<h5>Create the service instances</h5>
+  <ul>
+    <li>If you do not have an IBM Cloud account, register for a free trial account <a href="https://cloud.ibm.com/login">here</a>.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/watson-assistant">here</a> to create a <b>Watson Assistant</b> instance.</li>
+  </ul>
+
