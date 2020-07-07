@@ -35,7 +35,7 @@ Then we will create a web-based chatbot, in which you have the option of having 
 
 1. [Clone the repo](#1-clone-the-repo)
 1. [Create Watson Assistant and Cloudant services](#2-create-watson-services)
-1. [Upload the Watson Assistant skill](#3-customize-the-watson-assistant-skill)
+1. [Upload the Watson Assistant skill](#3-upload-the-watson-assistant-skill)
 1. [Set up .env with credentials](#4-set-up-credentials)
 1. [Deploy the application](#5-deploy-the-application)
 1. [Use the web app](#6-use-the-web-app)
@@ -50,12 +50,35 @@ git clone https://github.com/Mishelc/EducationalChatbot
 
 ### 2. Create Watson services and Cloudant 
 
-Provision the following service:
-<b>Watson Assistant</b>
-<p>
 <h5>Create the service instances</h5>
   <ul>
     <li>If you do not have an IBM Cloud account, register for a free trial account <a href="https://cloud.ibm.com/login">here</a>.</li>
     <li>Click <a href="https://cloud.ibm.com/catalog/services/watson-assistant">here</a> to create a <b>Watson Assistant</b> instance.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/speech-to-text">here</a> to create a <b>Watson Speech To Text</b> instance.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">here</a> to create a <b>Natural Language Understanding</b> instance.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/tone-analyzer">here</a> to create a <b>Tone Analyzer</b> instance.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/language-translator">here</a> to create a <b>Language Translator</b> instance.</li>
+    <li>Click <a href="https://cloud.ibm.com/catalog/services/cloudant">here</a> to create a <b>Cloudant</b> instance.</li>
   </ul>
 
+### 3. Upload the Watson Assistant skill
+<p>
+
+* Find the Assistant service in your IBM Cloud Dashboard.
+* Click on the service and then click on `Launch tool`.
+* Go to the `Skills` tab.
+* Click `Create skill`.
+* Select the `Dialog skill` option and then click `Next`.
+* Click the `Import skill` tab.
+* Click `Choose JSON file`, go to your cloned repo dir, and `Open` the JSON file in `doc/skill/summercamp.json`. 
+* Select `Everything` and click `Import`.
+
+</p>
+
+### 4. Set up .env with credentials
+
+
+### 5. Deploy the application
+
+
+### 6. Use the web app
