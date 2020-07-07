@@ -76,9 +76,9 @@ git clone https://github.com/Mishelc/EducationalChatbot
 </p>
 
 ### 4. Set up .env with credentials
-
-
+Change all of the variables into the `env.` file.
 ### 5. Deploy the application
 
 
 ### 6. Use the web app
+The web app presents a customer service chatbot. Interact with the chatbot by pressing the buttons when prompted or use the `Type something` box or select the voice icon to talk with the chatbot.
