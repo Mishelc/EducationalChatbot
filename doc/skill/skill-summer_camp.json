@@ -1,0 +1,2306 @@
+{
+  "intents": [
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "q tal"
+        },
+        {
+          "text": "kia ora"
+        },
+        {
+          "text": "holla"
+        },
+        {
+          "text": "Rimaykullayki"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "wenas"
+        },
+        {
+          "text": "greetings"
+        },
+        {
+          "text": "Napaykullayki"
+        },
+        {
+          "text": "hol"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "oola"
+        },
+        {
+          "text": "muy buenas!"
+        },
+        {
+          "text": "buenos dias!"
+        },
+        {
+          "text": "buenas"
+        },
+        {
+          "text": "wolaaaa"
+        },
+        {
+          "text": "holi"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "heelo"
+        },
+        {
+          "text": "god nigth"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "buenas tardes"
+        },
+        {
+          "text": "buenas noches"
+        },
+        {
+          "text": "ola"
+        }
+      ]
+    },
+    {
+      "intent": "hacer_review",
+      "examples": [
+        {
+          "text": "quiero darles feedback sobre los cursos de verano"
+        },
+        {
+          "text": "puedo dar feedback de los cursos de verano o el summer camp?"
+        },
+        {
+          "text": "review"
+        },
+        {
+          "text": "OPINION"
+        },
+        {
+          "text": "Quiero quejarme de su mal servicio"
+        },
+        {
+          "text": "Dejar mi opinión sobre Summer Camp"
+        },
+        {
+          "text": "quiero agradecer su servicio en el summer camp"
+        },
+        {
+          "text": "querer hacer review"
+        },
+        {
+          "text": "Quiero dar una opinión del Summer Camp"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_com_mkt",
+      "examples": [
+        {
+          "text": "generar propuestas de valor de marketing"
+        },
+        {
+          "text": "construir formas revolucionarias de convencer al consumidor"
+        },
+        {
+          "text": "comunicar y convencer a los sectores de mercado"
+        },
+        {
+          "text": "analizar y convencer a los sectores del mercado"
+        },
+        {
+          "text": "diseñar estrategias de marketing"
+        },
+        {
+          "text": "diseñar estrategias que permitan llegar al consumidor de una manera creativa"
+        },
+        {
+          "text": "comunicaciones y mkt"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_ing_ind",
+      "examples": [
+        {
+          "text": "encargarme de los procesos mas importantes de una empresa de producción industrial"
+        },
+        {
+          "text": "gestionar el proceso industrial importante de una empresa"
+        },
+        {
+          "text": "crear alternativas de solución a la gestión de las operaciones empresariales"
+        },
+        {
+          "text": "controlar y asegurar las operaciones"
+        },
+        {
+          "text": "gestionar las operaciones y procesos claves de las organizaciones del futuro"
+        },
+        {
+          "text": "controlar y asegurar la excelencia de las operaciones de las empresas más importantes del país."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_com_per",
+      "examples": [
+        {
+          "text": "Investigar para influir positivamente en tu entorno"
+        },
+        {
+          "text": "dedicarme al periodismo"
+        },
+        {
+          "text": "comunicar las noticias más importantes del momento"
+        },
+        {
+          "text": "recolectar información que sea conocida por todos"
+        },
+        {
+          "text": "transmitir información relevante para la sociedad"
+        },
+        {
+          "text": "comunicar los acontecimientos del momento mas trascendentales"
+        },
+        {
+          "text": "prefiero el periodismo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_ing_sis",
+      "examples": [
+        {
+          "text": "administrar la informacion de una manera inteligente y eficaz"
+        },
+        {
+          "text": "trabajar con la tecnologia para transformar a las empresas"
+        },
+        {
+          "text": "utilizar la tecnologia como un agente de cambio en la sociedad"
+        },
+        {
+          "text": "adm la inforamcion"
+        },
+        {
+          "text": "administrar la información"
+        },
+        {
+          "text": "transformar las empresas instaurando la tecnologia como pilar"
+        },
+        {
+          "text": "Administrar la informACION"
+        },
+        {
+          "text": "enfocar la tecnologia a solucionar los grandes problemas del mundo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_2_com",
+      "examples": [
+        {
+          "text": "investigar sobre que impactos sociales hubieron cuando el hombre llego ala luna"
+        },
+        {
+          "text": "como se comporto la sociedad cuando el hombre llego a la luna"
+        },
+        {
+          "text": "conocer el impacto en la sociedad que tuvo la llegada a la luna"
+        },
+        {
+          "text": "Investigar el impacto social que tuvo la llegada del ser humano a la Luna."
+        },
+        {
+          "text": "descubrir que paso en la civilizacion cuando supimos que llegfamos a la luna"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "gratitude",
+      "examples": [
+        {
+          "text": "gracias!"
+        },
+        {
+          "text": "cheers"
+        },
+        {
+          "text": "appreciated it"
+        },
+        {
+          "text": "ok great"
+        },
+        {
+          "text": "gracias por tu ayuda"
+        },
+        {
+          "text": "thank yu"
+        },
+        {
+          "text": "Yusulpayki"
+        },
+        {
+          "text": "muchas graciasss"
+        },
+        {
+          "text": "lo aprecio much"
+        },
+        {
+          "text": "muchas gracias!"
+        },
+        {
+          "text": "thanks for your help"
+        },
+        {
+          "text": "thanks for ur help"
+        },
+        {
+          "text": "rlly appreciated it"
+        },
+        {
+          "text": "tanks"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "mil gracias"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "gracias"
+        },
+        {
+          "text": "thank u"
+        },
+        {
+          "text": "thank"
+        },
+        {
+          "text": "te agradezco mucho"
+        }
+      ]
+    },
+    {
+      "intent": "rpta_1_com",
+      "examples": [
+        {
+          "text": "usar el dialogo para resolver el conflicto"
+        },
+        {
+          "text": "me gusta mas resolver un conflicto a traves del dialogo"
+        },
+        {
+          "text": "utilizaria el dialogo la verdad"
+        },
+        {
+          "text": "resolverlo con dialogo"
+        },
+        {
+          "text": "Resolver un conflicto a través del diálogo."
+        },
+        {
+          "text": "prefiero el dialogo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_2_ing",
+      "examples": [
+        {
+          "text": "investigar sobre las computadoras usadas para ir a la luna"
+        },
+        {
+          "text": "conocer sobre las tecnologias usadas"
+        },
+        {
+          "text": "entender las tecnologias que permitieron que le hombre llegue a la luna"
+        },
+        {
+          "text": "saber como es que el hombre pudo llegar a la luna"
+        },
+        {
+          "text": "Investigar sobre las tecnologías que permitieron que el ser humano llegue a la Luna."
+        },
+        {
+          "text": "como funciono el cohete que fdue a la luna"
+        },
+        {
+          "text": "descubrir que hizo la nasa para que el hombre llegue a la lna"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_3_ing",
+      "examples": [
+        {
+          "text": "gestionar la tecnología que sera usada"
+        },
+        {
+          "text": "Gestionar la tecnología que permitirá que esta información sea escuchada por todo el país."
+        },
+        {
+          "text": "conocer del soporte tecnologico que permite transmitir las noticias"
+        },
+        {
+          "text": "manejar las camaras, televisores, cables, redes que permitiran comunicar el mensaje"
+        },
+        {
+          "text": "administrar los componentes tecnologicos para permitir que todos escuchen la informacion"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_com_fot",
+      "examples": [
+        {
+          "text": "Crear mensajes creativos y persuasivos impactantes"
+        },
+        {
+          "text": "transmitir sentimientos a traves de la fotografia"
+        },
+        {
+          "text": "comunicar con imagenes de alta calidad e impacto"
+        },
+        {
+          "text": "utilizar la fotografia como un medio de expresion"
+        },
+        {
+          "text": "transmitir sensaciones a traves de fotos impactantes"
+        },
+        {
+          "text": "dedicarme a la fotografia"
+        },
+        {
+          "text": "quiero ser fotografo"
+        },
+        {
+          "text": "comunicar con imagenes impactantes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_3_com",
+      "examples": [
+        {
+          "text": "poder comunicar una noticia importante a partir de mi investigacion"
+        },
+        {
+          "text": "reconocer lo mas importante que pasa en mi entorno y poder comunicarlo a los demas"
+        },
+        {
+          "text": "transmitir la informacion que considero que todos deberian conocer a todo el pais"
+        },
+        {
+          "text": "investigar para mostrar los actos que todos deberian conocer"
+        },
+        {
+          "text": "dar a conocer un tema de interes nacional a todo el pais"
+        },
+        {
+          "text": "Investigar sobre un tema de interés nacional para poder comunicar esa información a todo el país."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "info_summer_camp",
+      "examples": [
+        {
+          "text": "quiero matricularme en un curso pero no se cual"
+        },
+        {
+          "text": "necesito informacion de su summer camp"
+        },
+        {
+          "text": "quiero entrar al summer camp pero no se a qué carrerA"
+        },
+        {
+          "text": "cual carrera me queda mejor?"
+        },
+        {
+          "text": "Definir el Summer Camp"
+        },
+        {
+          "text": "no se a que curso meterme en verano"
+        },
+        {
+          "text": "no se que carrera elegir"
+        },
+        {
+          "text": "definir summer camp"
+        },
+        {
+          "text": "matricukarme"
+        },
+        {
+          "text": "definir el summer campp"
+        },
+        {
+          "text": "quireo matricualrme"
+        },
+        {
+          "text": "hola, quiero matricuarme"
+        },
+        {
+          "text": "definrirn el susumemr capm"
+        },
+        {
+          "text": "matricularme"
+        },
+        {
+          "text": "definir el summer cump"
+        },
+        {
+          "text": "quiero entrar a su summer camp"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_1_ing",
+      "examples": [
+        {
+          "text": "usar matematica"
+        },
+        {
+          "text": "suuperarlos a traves de matematca"
+        },
+        {
+          "text": "resolverlos con matematicas"
+        },
+        {
+          "text": "usar las matematicas para resolverlos"
+        },
+        {
+          "text": "resolver los probelaas matematicamnet"
+        },
+        {
+          "text": "Resolver problemas usando matemáticas"
+        },
+        {
+          "text": "utilizar las matematicas para los problemas"
+        },
+        {
+          "text": "usar conceptos de aritmetica, geometria, estadistica"
+        },
+        {
+          "text": "resolverlos matematicamente"
+        },
+        {
+          "text": "pensar matematicamente"
+        },
+        {
+          "text": "Resolver problemas utilizando conceptos matemáticos."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "rpta_ing_civ",
+      "examples": [
+        {
+          "text": "gestionar proyectos de construcción"
+        },
+        {
+          "text": "diseñar una ciudad segura para toda la sociedad"
+        },
+        {
+          "text": "definir la estructura de un edificio"
+        },
+        {
+          "text": "diseñar las ciudades del futuro"
+        },
+        {
+          "text": "construir un entorno soñado que mejore la vida de los ciudadanos"
+        },
+        {
+          "text": "me guta mucha"
+        },
+        {
+          "text": "construir un entorno soñado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "i talk to you later"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "good luck!"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "c ya"
+        },
+        {
+          "text": "hasta pronto"
+        },
+        {
+          "text": "take care of yourself"
+        },
+        {
+          "text": "see you soon"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "farewell"
+        },
+        {
+          "text": "adios"
+        },
+        {
+          "text": "ricunacushun"
+        },
+        {
+          "text": "bey bey"
+        },
+        {
+          "text": "chau"
+        },
+        {
+          "text": "cuidate!"
+        },
+        {
+          "text": "hasta luego"
+        },
+        {
+          "text": "nos vemos!"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "tipo_usuario",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Padre de familia",
+          "synonyms": [
+            "padre de fam",
+            "p de familia",
+            "madre de fam",
+            "madre de familia",
+            "jefe de casa",
+            "m de fam",
+            "m de familia",
+            "p de fam",
+            "papa",
+            "mama",
+            "papá",
+            "mamá"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "escolar",
+          "synonyms": [
+            "estoy en el colegio",
+            "alumno",
+            "ezkolar"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "carreras_ing",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ing_ind",
+          "synonyms": [
+            "Ingeniería Industrial",
+            "Industrial"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ing_civ",
+          "synonyms": [
+            "Ingeniería Civil",
+            "Civil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ing_sis",
+          "synonyms": [
+            "Ingeniería de Sistemas de Información",
+            "Ingenieria de Sistemas",
+            "Sistemas",
+            "Sistemas de Información"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "grado_colegio",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4to secundaria",
+          "synonyms": [
+            "4to de secundaria",
+            "4to sec",
+            "4to de sec",
+            "4 de secundaria",
+            "4 secundaria",
+            "4 sec",
+            "4 de sec",
+            "4° de secundaria",
+            "4° secundaria",
+            "4° de sec",
+            "4° sec",
+            "cuarto de secundaria",
+            "cuarto secundaria",
+            "cuarto de sec",
+            "cuarto sec",
+            "4to",
+            "cuarto",
+            "4°",
+            "4",
+            "cuatro"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "5to secundaria",
+          "synonyms": [
+            "quinto de secundaria",
+            "quinto sec",
+            "5 sec",
+            "5 secundaria",
+            "5to sec",
+            "5 de secundaria",
+            "5to de secundaria",
+            "5° de secundaria",
+            "5° de sec",
+            "5° secundaria",
+            "5° sec",
+            "quinto secundaria",
+            "quinto",
+            "5to",
+            "5°",
+            "5",
+            "cinco"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "3to secundaria",
+          "synonyms": [
+            "3ro de secundaria",
+            "3ro sec",
+            "3ro de sec",
+            "3 de secundaria",
+            "3 secundaria",
+            "3 sec",
+            "3 de sec",
+            "3° de secundaria",
+            "3° secundaria",
+            "3° de sec",
+            "3° sec",
+            "tercero de secundaria",
+            "tercero secundaria",
+            "tercero de sec",
+            "tercero sec",
+            "3ro",
+            "tercero",
+            "3",
+            "3°",
+            "tres"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "nombres",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Studardo",
+          "synonyms": [
+            "Estuardo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Virginia",
+          "synonyms": [
+            "beer",
+            "birginia",
+            "bir",
+            "viri bam bam",
+            "virgi",
+            "viriginia",
+            "vir"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Vladimir",
+          "synonyms": [
+            "Vladi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Aarom",
+          "synonyms": [
+            "AAAArom",
+            "Arom",
+            "Aron"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Adams",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Alexandra",
+          "synonyms": [
+            "Aaaaa",
+            "Alex",
+            "Aleeeeeeee",
+            "Ale",
+            "Alexa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Aly",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Andrea",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Andy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Angel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Angela",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Araceli",
+          "synonyms": [
+            "Aracely"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carlos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Carmen",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cecilia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cesar",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Claudia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cristiano",
+          "synonyms": [
+            "Maquina",
+            "Siu",
+            "CR7",
+            "General",
+            "Comandante",
+            "Bicho",
+            "Christiano"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "David",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Dennis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Edwin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Emmanuel",
+          "synonyms": [
+            "Emanuel",
+            "Emma",
+            "Ema"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Erick",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Gustavo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Halan",
+          "synonyms": [
+            "Alan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hilary",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jaime",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "James",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jason",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jean",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jhonatan",
+          "synonyms": [
+            "Jonathan",
+            "Jonatan"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jhony",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jose",
+          "synonyms": [
+            "Pepe",
+            "Josesito",
+            "José"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Josue",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Julia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Julio",
+          "synonyms": [
+            "July",
+            "Julito"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Katherine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Keico",
+          "synonyms": [
+            "Ceico",
+            "Queico",
+            "Keiko"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Kevin",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Lionel",
+          "synonyms": [
+            "Leo",
+            "Lio",
+            "Leonel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lucy",
+          "synonyms": [
+            "Luchis",
+            "Lucha",
+            "Luci"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Luis",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marcelo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marianella",
+          "synonyms": [
+            "Marianela"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Michael",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Miguel",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mishel",
+          "synonyms": [
+            "Mixel",
+            "Michele",
+            "Michelle",
+            "Michel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Narcizo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicole",
+          "synonyms": [
+            "Nicol"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Paloma",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Paolo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Patricia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Juan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Zoraida",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pedro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Percy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Priscila",
+          "synonyms": [
+            "Prisila",
+            "Pricila"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Renato",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Romina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ruby",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "carreras_com",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "com_per",
+          "synonyms": [
+            "Comunicación y Periodismo",
+            "Periodismo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "com_mkt",
+          "synonyms": [
+            "Comunicación y Marketing",
+            "Marketing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "com_fot",
+          "synonyms": [
+            "Comunicación y Fotografía",
+            "Fotografía"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "opinion",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muchas gracias por tu opinión! Nuestro objetivo es siempre mejorar :)"
+              },
+              {
+                "text": "Ten por seguro que tu opinión nos hará mejores, ten un buen día :D"
+              },
+              {
+                "text": "Gracias por darte el timepo de darnos una opinión, le daremos la importancia debida."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1578324427636",
+      "conditions": "$carrera && $nombres && $grado_colegio",
+      "dialog_node": "node_8_1578337844566",
+      "previous_sibling": "node_1_1578324461926"
+    },
+    {
+      "type": "frame",
+      "title": "info_usuario",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bien, ¿cuál es tu opinión sobre el Summer Camp y/o sobre la recomendación que te hicimos?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1578324427636",
+      "conditions": "#hacer_review",
+      "dialog_node": "node_1_1578324461926"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1578091816081",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1578091816100",
+      "previous_sibling": "handler_4_1578091816100"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1578091816081",
+      "context": {
+        "rpta_2_ing": "#rpta_2_ing"
+      },
+      "conditions": "#rpta_2_ing",
+      "event_name": "input",
+      "dialog_node": "handler_4_1578091816100"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1578091775652",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1578091775731",
+      "previous_sibling": "handler_4_1578091775731"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_10_1578091775652",
+      "context": {
+        "rpta_1_com": "#rpta_1_com"
+      },
+      "conditions": "#rpta_1_com",
+      "event_name": "input",
+      "dialog_node": "handler_4_1578091775731"
+    },
+    {
+      "type": "standard",
+      "title": "respuestas_especificas_com",
+      "parent": "node_8_1578093768367",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#rpta_com_fot || #rpta_com_mkt || #rpta_com_per",
+      "dialog_node": "node_4_1578095818424"
+    },
+    {
+      "type": "standard",
+      "title": "pregunta_3",
+      "output": {
+        "generic": [
+          {
+            "title": "Por último, ¿que te agrada más?",
+            "options": [
+              {
+                "label": " Gestionar la tecnología que permitirá que esta información sea escuchada por todo el país.",
+                "value": {
+                  "input": {
+                    "text": " Gestionar la tecnología que permitirá que esta información sea escuchada por todo el país."
+                  }
+                }
+              },
+              {
+                "label": "Investigar sobre un tema de interés nacional para poder comunicar esa información a todo el país.",
+                "value": {
+                  "input": {
+                    "text": "Investigar sobre un tema de interés nacional para poder comunicar esa información a todo el país."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1578087617793",
+      "conditions": "true",
+      "dialog_node": "node_2_1578090155200",
+      "previous_sibling": "node_8_1578090146014"
+    },
+    {
+      "type": "standard",
+      "title": "pregunta_2",
+      "output": {
+        "generic": [
+          {
+            "title": "Ahora, ¿qué preferirías?",
+            "options": [
+              {
+                "label": "Investigar sobre las tecnologías que permitieron que el ser humano llegue a la Luna.",
+                "value": {
+                  "input": {
+                    "text": "Investigar sobre las tecnologías que permitieron que el ser humano llegue a la Luna."
+                  }
+                }
+              },
+              {
+                "label": "Investigar el impacto social que tuvo la llegada del ser humano a la Luna.",
+                "value": {
+                  "input": {
+                    "text": "Investigar el impacto social que tuvo la llegada del ser humano a la Luna."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1578087617793",
+      "conditions": "true",
+      "dialog_node": "node_8_1578090146014",
+      "previous_sibling": "node_3_1578089754361"
+    },
+    {
+      "type": "standard",
+      "title": "pregunta_1",
+      "output": {
+        "generic": [
+          {
+            "title": "¿Con cuál de estas acciones te identificas más?",
+            "options": [
+              {
+                "label": "Resolver problemas utilizando conceptos matemáticos",
+                "value": {
+                  "input": {
+                    "text": "Resolver problemas utilizando conceptos matemáticos"
+                  }
+                }
+              },
+              {
+                "label": "Resolver un conflicto a través del diálogo",
+                "value": {
+                  "input": {
+                    "text": "Resolver un conflicto a través del diálogo"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1578087617793",
+      "conditions": "true",
+      "dialog_node": "node_3_1578089754361"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Perfecto. Para empezar, ¿cómo te llamas?"
+              },
+              {
+                "text": "No pude entenderte, ¿cúal es tu nombre?"
+              },
+              {
+                "text": "Por favor indícame cómo te llamas"
+              },
+              {
+                "text": "Disculpa, necesito tu nombre para poder empezar"
+              },
+              {
+                "text": "¿Podrías por favor decirme cómo te llamas?"
+              },
+              {
+                "text": "No pude entenderte, ¿cúal es tu nombre?"
+              },
+              {
+                "text": "Por favor indícame cómo te llamas"
+              },
+              {
+                "text": "Disculpa, necesito tu nombre para poder empezar"
+              },
+              {
+                "text": "¿Podrías por favor decirme cómo te llamas?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_1_1579292794747",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1579292794768",
+      "previous_sibling": "handler_10_1579292794768"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1579292794747",
+      "context": {
+        "nombres": "@nombres"
+      },
+      "conditions": "@nombres",
+      "event_name": "input",
+      "dialog_node": "handler_10_1579292794768"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1578091822444",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1578091822454",
+      "previous_sibling": "handler_7_1578091822454"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_2_1578091822444",
+      "context": {
+        "rpta_3_com": "#rpta_3_com"
+      },
+      "conditions": "#rpta_3_com",
+      "event_name": "input",
+      "dialog_node": "handler_7_1578091822454"
+    },
+    {
+      "type": "standard",
+      "title": "Gracias",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "¡No hay problema! Estoy siempre dispuesto a ayudar. Recuerda que si desas más información, no dudes en comunicarte con nosotros: \n-313-3333\n-610-5030"
+              },
+              {
+                "text": "De nada, ¡me encanta ayudar! Te recuerdo que si desas más información, no dudes en comunicarte con nosotros: \n-313-3333\n-610-5030"
+              },
+              {
+                "text": "Es un placer ayudar, siempre lo es. Si desas más información, no dudes en comunicarte con nosotros: \n-313-3333\n-610-5030"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1578322082302",
+      "conditions": "#gratitude",
+      "dialog_node": "node_4_1578322129485",
+      "previous_sibling": "node_8_1578322126878"
+    },
+    {
+      "type": "standard",
+      "title": "Adiós",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me despido, fue un placer."
+              },
+              {
+                "text": "¡Hasta luego! Ten un gran día."
+              },
+              {
+                "text": "Cuídate, asombroso humano."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1578322082302",
+      "conditions": "#goodbyes",
+      "dialog_node": "node_9_1578322123469",
+      "previous_sibling": "node_4_1578322129485"
+    },
+    {
+      "type": "standard",
+      "title": "Saludos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Un gusto conocerte, ¿cómo puedo ayudarte?"
+              },
+              {
+                "text": "¡Hola! ¿qué puedo hacer por ti?"
+              },
+              {
+                "text": "Saludos, ¿qué es lo que estás buscando?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Definir mi carrera",
+                "value": {
+                  "input": {
+                    "text": "Definir mi carrera"
+                  }
+                }
+              },
+              {
+                "label": "Dejar mi opinión sobre Summer Camp",
+                "value": {
+                  "input": {
+                    "text": "Dejar mi opinión sobre Summer Camp"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1578322082302",
+      "conditions": "#greetings",
+      "dialog_node": "node_8_1578322126878"
+    },
+    {
+      "type": "frame",
+      "title": "respuestas",
+      "parent": "node_3_1578087542576",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#rpta_1_com || #rpta_1_ing || #rpta_2_com || #rpta_2_ing || #rpta_3_com || #rpta_3_ing",
+      "dialog_node": "node_7_1578089928851",
+      "previous_sibling": "node_10_1578087617793"
+    },
+    {
+      "type": "standard",
+      "title": "decisión",
+      "parent": "node_3_1578087542576",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "(($rpta_1_com && $rpta_2_com && $rpta_3_com) || ($rpta_1_com && $rpta_2_com) ||  ($rpta_1_com && $rpta_3_com) ||  ($rpta_2_com && $rpta_3_com)) || (($rpta_1_ing && $rpta_2_ing && $rpta_3_ing) || ($rpta_1_ing || $rpta_2_ing) || ($rpta_1_ing && $rpta_3_ing) || ($rpta_2_ing && $rpta_3_ing))",
+      "dialog_node": "node_3_1578093149431",
+      "previous_sibling": "node_7_1578089928851"
+    },
+    {
+      "type": "standard",
+      "title": "definir_carrera",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bacán, te haré unas cuantas preguntas para poder recomendarte alguna carrera para nuestro Summer Camp."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1578087542576",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#info_summer_camp",
+      "dialog_node": "node_10_1578087617793"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_3_com",
+      "dialog_node": "slot_2_1578091822444",
+      "previous_sibling": "slot_4_1578091816081"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_1_ing",
+      "dialog_node": "slot_7_1578091796006",
+      "previous_sibling": "slot_10_1578091775652"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Okay!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1578090155200"
+      },
+      "conditions": "#rpta_2_ing",
+      "dialog_node": "response_9_1578091361817",
+      "previous_sibling": "response_4_1578091050824"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Bien!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1578093149431"
+      },
+      "conditions": "#rpta_3_ing",
+      "dialog_node": "response_4_1578091372643",
+      "previous_sibling": "response_6_1578091368128"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_3_ing",
+      "dialog_node": "slot_2_1578091830311",
+      "previous_sibling": "slot_2_1578091822444"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Perfecto!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1578093149431"
+      },
+      "conditions": "#rpta_3_com",
+      "dialog_node": "response_6_1578091368128",
+      "previous_sibling": "response_9_1578091361817"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_2_ing",
+      "dialog_node": "slot_4_1578091816081",
+      "previous_sibling": "slot_10_1578091805942"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "¡Copiado!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1578090146014"
+      },
+      "conditions": "#rpta_1_com",
+      "dialog_node": "response_10_1578090115677",
+      "previous_sibling": "slot_2_1578091830311"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Entendido!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1578090146014"
+      },
+      "conditions": "#rpta_1_ing",
+      "dialog_node": "response_4_1578090610346",
+      "previous_sibling": "response_10_1578090115677"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Ya veo!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1578089928851",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1578090155200"
+      },
+      "conditions": "#rpta_2_com",
+      "dialog_node": "response_4_1578091050824",
+      "previous_sibling": "response_4_1578090610346"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_2_com",
+      "dialog_node": "slot_10_1578091805942",
+      "previous_sibling": "slot_7_1578091796006"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1578089928851",
+      "variable": "$rpta_1_com",
+      "dialog_node": "slot_10_1578091775652"
+    },
+    {
+      "type": "standard",
+      "title": "ingenieria",
+      "output": {
+        "generic": [
+          {
+            "title": "Ahora te haré una última pregunta, preferirías:",
+            "options": [
+              {
+                "label": "Construir un entorno soñado que mejore la vida de los ciudadanos.",
+                "value": {
+                  "input": {
+                    "text": "Construir un entorno soñado que mejore la vida de los ciudadanos."
+                  }
+                }
+              },
+              {
+                "label": "Controlar y asegurar la excelencia de las operaciones de las empresas más importantes del país.",
+                "value": {
+                  "input": {
+                    "text": "Controlar y asegurar la excelencia de las operaciones de las empresas más importantes del país."
+                  }
+                }
+              },
+              {
+                "label": "Administrar la informacion de una manera inteligente y eficaz.",
+                "value": {
+                  "input": {
+                    "text": "Administrar la informacion de una manera inteligente y eficaz."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1578093149431",
+      "conditions": "true",
+      "dialog_node": "node_4_1578093791369",
+      "previous_sibling": "node_8_1578093768367"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "¡Al parecer la Ingeniería está tocando a tu puerta!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1578093149431",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1578093791369"
+      },
+      "conditions": "($rpta_1_ing && $rpta_2_ing && $rpta_3_ing) || ($rpta_1_ing || $rpta_2_ing) || ($rpta_1_ing && $rpta_3_ing) || ($rpta_2_ing && $rpta_3_ing)",
+      "dialog_node": "response_8_1578093646160",
+      "previous_sibling": "response_2_1578093238467"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "¡Parece que las Comunicaciones están llamándote!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1578093149431",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1578093768367"
+      },
+      "conditions": "($rpta_1_com && $rpta_2_com && $rpta_3_com) || ($rpta_1_com && $rpta_2_com) ||  ($rpta_1_com && $rpta_3_com) ||  ($rpta_2_com && $rpta_3_com)",
+      "dialog_node": "response_2_1578093238467",
+      "previous_sibling": "node_4_1578093791369"
+    },
+    {
+      "type": "standard",
+      "title": "comunicaciones",
+      "output": {
+        "generic": [
+          {
+            "title": "Ahora te haré una última pregunta, preferirías:",
+            "options": [
+              {
+                "label": "Crear mensajes creativos y persuasivos impactantes.",
+                "value": {
+                  "input": {
+                    "text": "Crear mensajes creativos y persuasivos impactantes."
+                  }
+                }
+              },
+              {
+                "label": "Analizar y convencer a los sectores del mercado.",
+                "value": {
+                  "input": {
+                    "text": "Analizar y convencer a los sectores del mercado."
+                  }
+                }
+              },
+              {
+                "label": "Comunicar las noticias más importantes del momento.",
+                "value": {
+                  "input": {
+                    "text": "Comunicar las noticias más importantes del momento."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1578093149431",
+      "conditions": "true",
+      "dialog_node": "node_8_1578093768367"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Genial, ¿en qué grado estas?"
+              },
+              {
+                "text": "Perdona, no entendí en qué grado estás."
+              },
+              {
+                "text": "Disculpa, necesito saber en qué grado te encuentras"
+              },
+              {
+                "text": "Indícame porfavor tu grado actual"
+              },
+              {
+                "text": "Perdona, no entendí en qué grado estás."
+              },
+              {
+                "text": "Disculpa, necesito saber en qué grado te encuentras"
+              },
+              {
+                "text": "Indícame porfavor tu grado actual"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_8_1579292815901",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1579292815913",
+      "previous_sibling": "handler_8_1579292815913"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1579292815901",
+      "context": {
+        "grado_colegio": "@grado_colegio"
+      },
+      "conditions": "@grado_colegio",
+      "event_name": "input",
+      "dialog_node": "handler_8_1579292815913"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1578091805942",
+      "event_name": "focus",
+      "dialog_node": "handler_10_1578091805959",
+      "previous_sibling": "handler_2_1578091805959"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_10_1578091805942",
+      "context": {
+        "rpta_2_com": "#rpta_2_com"
+      },
+      "conditions": "#rpta_2_com",
+      "event_name": "input",
+      "dialog_node": "handler_2_1578091805959"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "¿En qué carrera te matriculaste?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_9_1578330411929",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1578330411938",
+      "previous_sibling": "handler_2_1578330411938"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_9_1578330411929",
+      "context": {
+        "carrera": "@carreras_com || @carreras_ing"
+      },
+      "conditions": "@carreras_com || @carreras_ing",
+      "event_name": "input",
+      "dialog_node": "handler_2_1578330411938"
+    },
+    {
+      "type": "standard",
+      "title": "respuestas_especificas_ing",
+      "output": {},
+      "parent": "node_4_1578093791369",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#rpta_ing_civ || #rpta_ing_ind || #rpta_ing_sis",
+      "dialog_node": "node_14_1578099539947"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Ingeniería de Sistemas de Información. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-sistemas-de-informacion/\" target=\"_blank\">link</a>."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_14_1578099539947",
+      "conditions": "#rpta_ing_sis",
+      "dialog_node": "response_20_1578099539957",
+      "previous_sibling": "response_19_1578099539957"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Ingeniería Industrial. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-industrial/\" target=\"_blank\">link</a>."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_14_1578099539947",
+      "conditions": "#rpta_ing_ind",
+      "dialog_node": "response_19_1578099539957",
+      "previous_sibling": "response_18_1578099539957"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Ingeniería Civil. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-civil/\" target=\"_blank\">link</a>."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_14_1578099539947",
+      "conditions": "#rpta_ing_civ",
+      "dialog_node": "response_18_1578099539957"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1578091830311",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1578091830322",
+      "previous_sibling": "handler_10_1578091830322"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_2_1578091830311",
+      "context": {
+        "rpta_3_ing": "#rpta_3_ing"
+      },
+      "conditions": "#rpta_3_ing",
+      "event_name": "input",
+      "dialog_node": "handler_10_1578091830322"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Comunicación y Periodismo. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-comunicaciones/comunicacion-y-periodismo/\" target=\"_blank\">link</a>."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1578095818424",
+      "conditions": "#rpta_com_per",
+      "dialog_node": "response_9_1578099575608",
+      "previous_sibling": "response_6_1578096271045"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Comunicación y Marketing. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-comunicaciones/comunicacion-y-marketing/\" target=\"_blank\">link</a>."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1578095818424",
+      "conditions": "#rpta_com_mkt",
+      "dialog_node": "response_6_1578096271045",
+      "previous_sibling": "response_1_1578095837871"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Por el perfil que he podido ver en ti, te recomendaría matricularte al Summer Camp de Comunicación y Publicidad. Si deseas más información de esta carrera, puedes ingresar al siguiente <a href=\"https://pregrado.upc.edu.pe/facultad-de-comunicaciones/comunicacion-y-publicidad/\" target=\"_blank\">link</a>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1578095818424",
+      "conditions": "#rpta_com_fot",
+      "dialog_node": "response_1_1578095837871"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1578091796006",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1578091796019",
+      "previous_sibling": "handler_9_1578091796019"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_7_1578091796006",
+      "context": {
+        "rpta_1_ing": "#rpta_1_ing"
+      },
+      "conditions": "#rpta_1_ing",
+      "event_name": "input",
+      "dialog_node": "handler_9_1578091796019"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1578324461926",
+      "variable": "$grado_colegio",
+      "dialog_node": "slot_8_1579292815901",
+      "previous_sibling": "slot_1_1579292794747"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1578324461926",
+      "variable": "$carrera",
+      "dialog_node": "slot_9_1578330411929",
+      "previous_sibling": "slot_8_1579292815901"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1578324461926",
+      "variable": "$nombres",
+      "dialog_node": "slot_1_1579292794747"
+    },
+    {
+      "type": "folder",
+      "title": "definir_carrera",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1578087542576",
+      "previous_sibling": "node_5_1578324427636"
+    },
+    {
+      "type": "folder",
+      "title": "Opiniones",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1578324427636",
+      "previous_sibling": "node_9_1578322082302"
+    },
+    {
+      "type": "standard",
+      "title": "En otras cosas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No le he entendido. Intente reformular la consulta."
+              },
+              {
+                "text": "¿Puede expresarse con otras palabras? No le he entendido."
+              },
+              {
+                "text": "No entendí el significado."
+              },
+              {
+                "text": "Veo que no nos estamos entendiendo como nos gustaría. ¿Desea contactar a un asistente humano en su lugar? Intente marcar al "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "En otras cosas",
+      "previous_sibling": "node_3_1578087542576",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "folder",
+      "title": "ChiChat",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1578322082302",
+      "previous_sibling": "node_3_1579274282922"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "¡Hola! Soy Alma y trabajo en la UPC. Te puedo ayudar a decidir entre las carreras que estamos ofreciendo para nuestro Summer Camp: carreras de Ingeniería (Civil, Sistemas e Industrial) o carreras de Comunicaciones (Periodismo, Publicidad y Marketing). Además, puedo recibir su opinión sobre el Summer Camp y sobre mi atención."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "node_3_1579274282922"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "3"
+    },
+    {
+      "text": "4"
+    },
+    {
+      "text": "buena recomendacion"
+    },
+    {
+      "text": "buen curso"
+    },
+    {
+      "text": "buenos cursos"
+    },
+    {
+      "text": "buenos cursos  y recomendacion"
+    },
+    {
+      "text": "comunicaciones y mkt"
+    },
+    {
+      "text": "estuvo mal"
+    },
+    {
+      "text": "mala"
+    },
+    {
+      "text": "ME GUSTO MUCHO"
+    },
+    {
+      "text": "me guta mucha"
+    },
+    {
+      "text": "me parecio feo"
+    },
+    {
+      "text": "me parecio horroroso"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Querías decir:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "summer_camp",
+  "language": "es",
+  "description": ""
+}
