@@ -31,12 +31,12 @@ Then we will create a web-based chatbot, in which you have the option of having 
 * [IBM Watson Language Translator](https://www.ibm.com/watson/services/language-translator/): Translation service given a couple of languages.
 * [IBM Cloudant](https://www.ibm.com/cloud/cloudant): NoSQL database.
 
-## Despliegue
-Se muestra cómo ejecutar el ChatbotWatsonServices en su máquina local.
-#### Pasos
-1.  Clonar el repositorio
-2.  Crear servicios de Watson en IBMCloud
-3.  Cargue el espacio de trabajo de Watson Assistant
-4.  Configure .env con credenciales
-5.  Ejecute la aplicación
+## Steps
+
+1. [Clone the repo](#1-clone-the-repo)
+1. [Create Watson Assistant and Cloudant services](#2-create-watson-services)
+1. [Upload the Watson Assistant skill](#3-customize-the-watson-assistant-skill)
+1. [Set up .env with credentials](#4-set-up-credentials)
+1. [Deploy the application](#5-deploy-the-application)
+1. [Use the web app](#6-use-the-web-app)
 
